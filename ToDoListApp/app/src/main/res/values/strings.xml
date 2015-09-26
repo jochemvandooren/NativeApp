@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoListApp</string>
+    <string name="hint">What to do?</string>
+
+    <string name="todolist">To do list!</string>
+    <string name="action_settings">Settings</string>
+</resources>
